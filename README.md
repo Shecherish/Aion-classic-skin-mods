@@ -1,10 +1,14 @@
 # Aion-classic-skin-mods
 
-Follow the pathway: aionclassic\l10n\ENG\data
-Create a custompreset folder
-Drop your .pak files in the folder and launch the game
-Use a plastic surgery ticket or create new character to apply changes
-Enjoy!
+1. Follow the pathway: aionclassic\l10n\ENG\data
+
+2. Create a custompreset folder
+
+3. Drop your .pak files in the folder and launch the game
+
+4. Use a plastic surgery ticket or create new character to apply changes
+
+5. Enjoy
 
 
 
