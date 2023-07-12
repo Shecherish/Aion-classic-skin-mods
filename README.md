@@ -14,6 +14,6 @@
 
 WARNING
 
-Do not use tanned.pak & the zip file together as they overlap
+Do not use tanned.pak & the zip file together as they overlap ( I would recommend to not use the tanned.pak file at all, it is more for a record keeping for me )
 
 The changes you make to your character are visible to every player.
