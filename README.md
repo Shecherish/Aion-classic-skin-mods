@@ -1,6 +1,6 @@
 # Aion-classic-skin-mods
 
-               Asmo Skin Mod
+      Asmo Skin Mod
 
 1. Follow the pathway: aionclassic\l10n\ENG\data
 
@@ -23,8 +23,7 @@ The changes you make to your character are visible to every player.
 Last updated on 12/03/2024: Male presets 13 to 17 added (red skin tones); Female presets 32, 41 to 43 added (red skin tones)
 
 
-
-               No Yell Please Mod
+      No Yell Please Mod
 
 A cure for the oldest Aion EU problem. You're an oldschool player who uses a vanilla english client, but all your cute female friends use KR voicepacks and hammer you down with a deafening 'hiyaaa'? Fear no more. Your solution is here.
 
