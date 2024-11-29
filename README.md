@@ -34,4 +34,11 @@ A cure for the oldest Aion EU problem. You're an oldschool player who uses a van
 
             NO MANE MOD
 
-Work in progress! Check my youtube channel (shecherish) for the latest post about the topic. Estimated time of arrival: early October 24.
+Asmo female no mane mod is ready for classic 3.0 (brawler patch). Asmo male side of it is a work in progress! Only you can see the changes.
+
+1. Go to aionclassic\data\pc
+2. Replace the pc.pak with my version
+3. Enjoy
+
+This mod will need to be updated for major updates so dont worry if it suddenly stops working.
+I may have missed one or two armours - you can drop me a message with armour name/armour class and I will try to update. 
